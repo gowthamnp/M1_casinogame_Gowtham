@@ -3,3 +3,4 @@
 [![CI](https://github.com/gowthamnp/M1_game_casinogame/actions/workflows/codeinspector.yml/badge.svg)](https://github.com/gowthamnp/M1_game_casinogame/actions/workflows/codeinspector.yml)
 [![CI](https://github.com/gowthamnp/M1_game_casinogame/actions/workflows/codeinspector.yml/badge.svg)](https://github.com/gowthamnp/M1_game_casinogame/actions/workflows/codeinspector.yml)
 [![CI](https://github.com/gowthamnp/M1_game_casinogame/actions/workflows/codeinspector.yml/badge.svg)](https://github.com/gowthamnp/M1_game_casinogame/actions/workflows/codeinspector.yml)
+[![CI](https://github.com/gowthamnp/M1_game_casinogame/actions/workflows/codeinspector.yml/badge.svg)](https://github.com/gowthamnp/M1_game_casinogame/actions/workflows/codeinspector.yml)
